@@ -1,0 +1,51 @@
+.h1{
+    margin-left: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h2{
+    margin-left: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h4{
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section{
+    width: 300px;
+    color: purple;
+    margin-left: 450px;
+    
+}
+
+.section1{
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 0px;
+    color: purple;
+    
+}
+
+.main{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.input{
+    width: 291px;
+    height: 76px;
+    border-radius: 4px 4px 0px 0px;
+    border-color: rgb(233, 9, 233);
+    display: flex;
+}
+
+.button{
+    width: 300px;
+    background-color: rgb(228, 207, 225);
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    height: 40px;
+    margin-top: 80px;
+}
