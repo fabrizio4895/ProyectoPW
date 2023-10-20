@@ -1,0 +1,92 @@
+.div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1{
+    margin-top: 50px;
+    margin-left: 720px;
+}
+
+.h2{
+    margin-left: 820px;
+}
+
+.h31{
+    margin-left: 400px;
+}
+
+.h32{
+    margin-left: 80px;
+}
+
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: purple;
+    display: flex;
+}
+
+.section1{
+    width: 1000px;
+    margin-top: 20px;
+}
+
+.section2{
+    width: 1000px;
+    margin-left: 10px;
+    margin-top: 20px;
+    
+}
+
+.TextField1{
+    margin-top: 10px;
+    margin-left: 400px;
+    width: 400px;
+}
+
+.TextField2{
+    margin-top: 40px;
+    margin-left: 400px;
+    width: 400px;
+}
+
+.TextField3{
+    margin-top: 40px;
+    margin-left: 400px;
+    width: 400px;
+}
+
+.TextField4{
+    margin-top: 40px;
+    margin-left: 400px;
+    width: 400px;
+}
+
+.TextField5{
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.TextField6{
+    width: 400px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.TextField7{
+    width: 400px;   
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.button{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(212, 185, 209);
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    margin-right: 300px;
+    margin-top: 55px;
+    margin-left: 80px;
+}

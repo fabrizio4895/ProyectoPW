@@ -1,21 +1,10 @@
-import styles from './index.module.css'
+import AdminLogin from '../../app/admin/AdminLogin.jsx'
 
-const Admin = () => {
+const AdminLoginPagina = () => {
     return (
         <>
-            <h1 className={styles.h1}>Sistema de reserva de libros de Administrador</h1>
-            <div className={styles.div}>
-                <label className={styles.label}>Usuario o correo</label>
-                <br/>
-                <input type='text' className={styles.input}></input>
-                <br/>
-                <label className={styles.label1}>Contraseña</label>
-                <br/>
-                <input type='password' className={styles.input1} ></input>
-                <button className={styles.button}>Ingresar</button>
-            </div>
+            <AdminLogin/>
         </>    
     )
-
 }
-export default Admin
+export default AdminLoginPagina
